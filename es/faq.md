@@ -7,22 +7,22 @@ description: Bitcoin Minería Preguntas Frecuentes
 <h2>Table of contents</h2>
 
 <ul>
-  <li><a href="#what-is-bitcoin-mining">What is Bitcoin mining?</a></li>
-  <li><a href="#how-does-bitcoin-mining-work">How does Bitcoin mining work?</a></li>
-  <li><a href="#isnt-bitcoin-mining-a-waste-of-energy">Isn't Bitcoin mining a waste of energy?</a></li>
-  <li><a href="#how-does-mining-help-secure-bitcoin">How does mining help secure Bitcoin?</a></li>
-  <li><a href="#what-do-i-need-to-start-mining">What do I need to start mining?</a></li>
-  <li><a href="#what-does-mhs-ghs-mean">What does MH/s, GH/s mean?</a></li>
-  <li><a href="#what-does-wgh-mean">What does W/Gh mean?</a></li>
-  <li><a href="#calculate-bitcoin-mining-profitability">How do I calculate my Bitcoin mining profitability?</a></li>
-  <li><a href="#what-does-hashing-mean">What does hashing mean?</a></li>
-  <li><a href="#bitcoin-mining-pool">What is a Bitcoin mining pool?</a></li>
-  <li><a href="#what-does-GPU-stand-for">What does GPU stand for?</a></li>
-  <li><a href="#bitcoin-mining-share">What is a Bitcoin mining share?</a></li>
-  <li><a href="#bitcoin-mining-module">What is a Bitcoin mining module?</a></li>
-  <li><a href="#what-does-ASIC-stand-for">What does ASIC stand for?</a></li>
-  <li><a href="#what-does-FPGA-stand-for">What does FPGA stand for?</a></li>
-  <li><a href="#data">Where can I view mining data about each block?</a></li>
+  <li><a href="#what-is-bitcoin-mining">¿Qué es la minería de Bitcoins?</a></li>
+  <li><a href="#how-does-bitcoin-mining-work">¿Cómo funciona la minería de Bitcoins?</a></li>
+  <li><a href="#isnt-bitcoin-mining-a-waste-of-energy">¿Es la minería de Bitcoins una pérdida de tiempo?</a></li>
+  <li><a href="#how-does-mining-help-secure-bitcoin">¿Cómo hace la minería más seguro al Bitcoin?</a></li>
+  <li><a href="#what-do-i-need-to-start-mining">¿Qué necesito para comenzar con la minería?</a></li>
+  <li><a href="#what-does-mhs-ghs-mean">¿Qué significan MH/s y GH/s?</a></li>
+  <li><a href="#what-does-wgh-mean">¿Qué significa W/Gh?</a></li>
+  <li><a href="#calculate-bitcoin-mining-profitability">¿Cómo calculo mi ganancia de minería de Bitcoins?</a></li>
+  <li><a href="#what-does-hashing-mean">¿Qué significa hashing?</a></li>
+  <li><a href="#bitcoin-mining-pool">¿Qué es un pool de minería de Bitcoin?</a></li>
+  <li><a href="#what-does-GPU-stand-for">¿Para qué se establece un GPU?</a></li>
+  <li><a href="#bitcoin-mining-share">¿Qué es una cuota de minería de Bitcoin?</a></li>
+  <li><a href="#bitcoin-mining-module">¿Qué es un módulo de minería de Bitcoin?</a></li>
+  <li><a href="#what-does-ASIC-stand-for">¿Para qué se establece ASIC?</a></li>
+  <li><a href="#what-does-FPGA-stand-for">¿Para qué se establece el FPGA?</a></li>
+  <li><a href="#data">¿Dónde puedo ver los datos de minería de cada bloque?</a></li>
 </ul>
 
 <h3 id="what-is-bitcoin-mining">What is Bitcoin mining?</h3>
