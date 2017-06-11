@@ -7,7 +7,7 @@ description: Bitcoin Minería Preguntas Frecuentes
 <h2>Table of contents</h2>
 
 <ul>
-  <li><a href="#what-is-bitcoin-mining">¿Qué es la minería de Bitcoins?</a></li>
+  <li><a href="#what-is-bitcoin-mining">¿Qué es la minería de Bitcoin?</a></li>
   <li><a href="#how-does-bitcoin-mining-work">¿Cómo funciona la minería de Bitcoins?</a></li>
   <li><a href="#isnt-bitcoin-mining-a-waste-of-energy">¿Es la minería de Bitcoins una pérdida de tiempo?</a></li>
   <li><a href="#how-does-mining-help-secure-bitcoin">¿Cómo hace la minería más seguro al Bitcoin?</a></li>
@@ -25,16 +25,16 @@ description: Bitcoin Minería Preguntas Frecuentes
   <li><a href="#data">¿Dónde puedo ver los datos de minería de cada bloque?</a></li>
 </ul>
 
-<h3 id="what-is-bitcoin-mining">What is Bitcoin mining?</h3>
+<h3 id="what-is-bitcoin-mining">¿Qué es la minería de Bitcoin?</h3>
 
 <img src="/images/icons/mining.png" class="pull-left bitcoin-icon">
 
-<p>Mining is the process of spending computing power to process transactions, secure the network, and keeps everyone in the system synchronized together. It can be perceived like the Bitcoin data center except that it has been designed to be fully decentralized with miners operating in all countries and no individual having control over the network. </p>
+<p>La minería es el proceso de utilizar poder computacional para procesar transacciones, asegurar la red, y mantener a todos en la red sincronizados juntos. Puede ser percivido como un centro de datos de Bitcoin, exepto porque gue diseñado para ser totalmente descentralizado, con mineros operando en todos los países y ningún individuo teniendo el control de la red. </p>
 
-<p>This process is referred to as "mining" as an analogy to gold mining because it is also a temporary mechanism used to issue new bitcoins. Unlike gold mining, however, Bitcoin mining provides a reward in exchange for useful services required to operate a secure payment network. Mining will still be required after the last bitcoin is issued.</p>
+<p>Este proceso se conoce como "minería" como una analogía de la minería del oro, debido a que también es un mecanismo temporal para emitir nuevos bitcoins. A diferencia de la minería del oro, sin embargo, la minería de Bitcoin provee una recompensa a cambio de servicios útiles requeridas para operar una red segura de pagos. La Minería aún será necesaria cuando el último bitcoin sea creado.</p>
 
-<h3 id="how-does-bitcoin-mining-work">How does Bitcoin mining work?</h3>
-<p>Anybody can become a Bitcoin miner by running Bitcoin mining software and Bitcoin mining modules with <a href="/bitcoin-mining-hardware/">specialized Bitcoin mining hardware</a>. Mining software listens for transaction broadcasts through the peer-to-peer network and performs appropriate tasks to process and confirm these transactions. Bitcoin miners perform this work because they can earn transaction fees paid by users for faster transaction processing, and newly created bitcoins issued into existence according to a fixed formula.</p>
+<h3 id="how-does-bitcoin-mining-work">¿Cómo funciona la minería de Bitcoins?</h3>
+<p>Cualquiera puede convertirse en un minero de Bitcoin, ejecutando un software y módulos de Bitcoin con <a href="/bitcoin-mining-hardware/">hardware especializado en minería de Bitcoin</a>. El software de minería escucha las transmisiones de transacciones a través de la red peer-to-peer (de par a par), y realiza las tareas apropiadas para procesar y confirmar estas transacciones. Los mineros de Bitcoin realizan este trabajo porque pueden ganar honorarios de la transacción, pagados por los usuarios para un procesamiento más rápido de la transacción, y los bitcoins recién creados publicados en existencia según una fórmula fija.</p>
 
 <p>For new transactions to be confirmed, they need to be included in a block along with a <a href="/what-is-proof-of-work/">mathematical proof of work</a>. Such proofs are very hard to generate because there is no way to create them other than by trying billions of calculations per second. This requires miners to perform these calculations before their blocks are accepted by the network and before they are rewarded. As more people start to mine, the difficulty of finding valid blocks is automatically increased by the network to ensure that the average time to find a block remains equal to 10 minutes. As a result, mining is a very competitive business where no individual miner can control what is included in the block chain.</p>
 
